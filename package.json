@@ -1,0 +1,19 @@
+{
+  "name": "padawanjs",
+  "version": "1.0.0",
+  "description": "Client-side javascript MVC framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/padawancoder/padawanjs.git"
+  },
+  "author": "Mitch Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/padawancoder/padawanjs/issues"
+  },
+  "homepage": "https://github.com/padawancoder/padawanjs#readme"
+}
